@@ -1,3 +1,5 @@
 # Participantes de EDA-II 2026
 - sfweber
-KEVIN GARCIA
+- LichaSDev - Lisandro Sanchez
+- Lautaro-prog392
+- gitkevin91
